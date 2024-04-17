@@ -29,7 +29,9 @@ The goal is to use Python visualization libraries such as seaborn and matplotlib
 
 ### Some Visual Insights: Charts Illustrating Data Context and Insights
 
-1. Pie chart Explaining the percentange distribution of data in each year.
+
+#### 1. Pie chart Explaining the percentange distribution of data in each year.
+
 ![download](https://github.com/Abdulmalik25/HoneY_production_visualization_Python-Project/assets/153974173/568385cd-bf16-4d25-942d-663cc4197948)
 
 2. Displot Explaining the dirstibution of Average price per pound of Honey each year.

@@ -34,23 +34,39 @@ The goal is to use Python visualization libraries such as seaborn and matplotlib
 
 ![download](https://github.com/Abdulmalik25/HoneY_production_visualization_Python-Project/assets/153974173/568385cd-bf16-4d25-942d-663cc4197948)
 
+The above piechart shows yearwise distribution of honey in percentenges. And it is noted that the distribution of honey across different states in America over the years are of same percentange.
+
 #### 2. Displot Explaining the dirstibution of Average price per pound of Honey each year.
 
 ![download (1)](https://github.com/Abdulmalik25/HoneY_production_visualization_Python-Project/assets/153974173/4f32f3f2-623a-4d00-9a3c-0a3672787da9)
+
+From the distribution plot of 'priceperlb' it is observed that, over the years the average price per pound of honey is around 1.5 dollars among most of the states.
 
 #### 3. Scatterplot Explaining the relationship between Number of Honey Producing Colonies vs Value of production in dollars.
 
 ![download (2)](https://github.com/Abdulmalik25/HoneY_production_visualization_Python-Project/assets/153974173/8b8e6491-d699-40ef-8a12-1eb988028f1c)
 
+The above scatterplot shows relationship between Numercalcol-Number of honey producing colonies as X-axis and ProductValue-Value of production (total prod x priceperlb) as y-axis. Unit is dollars. The scatterplot is likely to show a clear upward trend, indicating that as the number of honey-producing colonies increases, the value of production also tends to increase. This suggests a positive correlation, which aligns with the correlation coefficient of 0.91.
+
 #### 4. Boxplot explaining the variation value of production of honey over years.
 
 ![download (3)](https://github.com/Abdulmalik25/HoneY_production_visualization_Python-Project/assets/153974173/ee1811bf-6b47-4cfd-9384-4e31209d606a)
+
+The boxplot of 'prodvalue'-Value of production (total prod x priceperlb) over the years shows there has been a lot of outliers present in the data. And it is noted to work with outliers before building a model.
 
 #### 5. Pairplot describing the relationship between the multiple pairs of variables throughout different years  with columns 'numcol', 'yield percol', 'total prod', 'prodvalue','year'.
 
 ![download (4)](https://github.com/Abdulmalik25/HoneY_production_visualization_Python-Project/assets/153974173/95023a64-1dda-40c2-8cdc-3bd43b4bf1b0)
 
+The above pairplot shows distribution of variables 'numcol', 'yieldpercol', 'totalprod', 'prodvalue','year'. 1)There has been positive linear relationship between 'totalprod' and 'prodvalue' and also for 'numcol' and 'prodvalue'. 2)The histogram of 'numcol' suggests that there is large count for number of colonies less than 50000. 3)The histogram of year shows there has been increase in distribution every half in 5 years. 4)The scatterplot between 'yieldpercol' and 'prodvalue'suggests that the prodvalue for many number of yield per colonies is around 1 to 2 dollars.
+
 #### 6. Heatmap showing the correlation between all the numerical varibales of the dataset.
 
 ![download (5)](https://github.com/Abdulmalik25/HoneY_production_visualization_Python-Project/assets/153974173/6cbf181b-ab80-4aa4-979e-6d487b75d40d)
+
+The heatmap shows the correlation between all the numerical values of the Honey_production data. And it has been noted that there is a high positive correlation between 'numcol' and 'prodvalue' which is 0.91. And the next high positive correlation is between variables 'totalprod' and 'stocks' which is 0.88. And there is a high negative correlation between variables 'yieldpercol' and'priceperlb' which is -0.36.
+
+# Conclusion
+
+In conclusion, the provided charts offer valuable insights into the context and trends of the data. They help us understand key aspects such as honey production, prices, and stocks over the specified period and across different states. These visualizations provide a clear picture of the honey industry's challenges and dynamics, contributing to a deeper understanding of the dataset.
 

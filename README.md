@@ -34,18 +34,23 @@ The goal is to use Python visualization libraries such as seaborn and matplotlib
 
 ![download](https://github.com/Abdulmalik25/HoneY_production_visualization_Python-Project/assets/153974173/568385cd-bf16-4d25-942d-663cc4197948)
 
-2. Displot Explaining the dirstibution of Average price per pound of Honey each year.
+#### 2. Displot Explaining the dirstibution of Average price per pound of Honey each year.
+
 ![download (1)](https://github.com/Abdulmalik25/HoneY_production_visualization_Python-Project/assets/153974173/4f32f3f2-623a-4d00-9a3c-0a3672787da9)
 
-3. Scatterplot Explaining the relationship between Number of Honey Producing Colonies vs Value of production in dollars.
+#### 3. Scatterplot Explaining the relationship between Number of Honey Producing Colonies vs Value of production in dollars.
+
 ![download (2)](https://github.com/Abdulmalik25/HoneY_production_visualization_Python-Project/assets/153974173/8b8e6491-d699-40ef-8a12-1eb988028f1c)
 
-4. Boxplot explaining the variation value of production of honey over years.
+#### 4. Boxplot explaining the variation value of production of honey over years.
+
 ![download (3)](https://github.com/Abdulmalik25/HoneY_production_visualization_Python-Project/assets/153974173/ee1811bf-6b47-4cfd-9384-4e31209d606a)
 
-5. Pairplot describing the relationship between the multiple pairs of variables throughout different years  with columns 'numcol', 'yield percol', 'total prod', 'prodvalue','year'.
+#### 5. Pairplot describing the relationship between the multiple pairs of variables throughout different years  with columns 'numcol', 'yield percol', 'total prod', 'prodvalue','year'.
+
 ![download (4)](https://github.com/Abdulmalik25/HoneY_production_visualization_Python-Project/assets/153974173/95023a64-1dda-40c2-8cdc-3bd43b4bf1b0)
 
-6. Heatmap showing the correlation between all the numerical varibales of the dataset.
+#### 6. Heatmap showing the correlation between all the numerical varibales of the dataset.
+
 ![download (5)](https://github.com/Abdulmalik25/HoneY_production_visualization_Python-Project/assets/153974173/6cbf181b-ab80-4aa4-979e-6d487b75d40d)
 
